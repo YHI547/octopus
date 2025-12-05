@@ -1,6 +1,6 @@
 # octopus
 Multifunctional tool for security tasks
-#######################################
+
 Here are 5 options:
 
 Option 1: You can find out what SIM card someone has based on their number, and from which country and city it is.
@@ -17,4 +17,8 @@ Thanks, this was YHI547. I hope this tool is useful for you.
 
 !!The msvcrt library is not required for Linux and Termux.!!
 
-
+##Linux/Termux
+bash'''
+git clone https://github.com/YHI547/octopus.git
+cd octopus
+'''
