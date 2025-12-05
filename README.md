@@ -17,5 +17,3 @@ Thanks, this was YHI547. I hope this tool is useful for you.
 
 !!The msvcrt library is not required for Linux and Termux.!!
 
-##Linux/Termux
-
