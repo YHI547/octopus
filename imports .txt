@@ -1,0 +1,18 @@
+from colorama import Fore, Style
+from phonenumbers import parse
+from phonenumbers import geocoder
+from phonenumbers import carrier
+import string
+import random
+import socket
+import pyfiglet
+import time
+from socket import *
+from time import sleep
+from tqdm import tqdm
+import requests
+import msvcrt
+import time
+import os
+import subprocess
+
