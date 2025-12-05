@@ -17,3 +17,21 @@ Thanks, this was YHI547. I hope this tool is useful for you.
 
 !!The msvcrt library is not required for Linux and Termux.!!
 
+Linux/Termux
+
+git clone https://github.com/YHI547/octopus.git
+
+cd octopus
+
+python octopus_L_T.py
+
+**
+!!The msvcrt library is not required for Linux and Termux**
+
+Windows
+
+git clone https://github.com/YHI547/octopus.git
+
+cd octopus
+
+python octopus_W.py
