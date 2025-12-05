@@ -21,4 +21,3 @@ Thanks, this was YHI547. I hope this tool is useful for you.
 bash'''
 git clone https://github.com/YHI547/octopus.git
 cd octopus
-'''
