@@ -18,6 +18,4 @@ Thanks, this was YHI547. I hope this tool is useful for you.
 !!The msvcrt library is not required for Linux and Termux.!!
 
 ##Linux/Termux
-bash'''
-git clone https://github.com/YHI547/octopus.git
-cd octopus
+
